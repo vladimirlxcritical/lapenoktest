@@ -1,1 +1,2 @@
-newfile.txt
+newfile for tests
+new line
